@@ -1,0 +1,15 @@
+
+--no-index --find-links https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+torch-scatter
+
+--no-index --find-links https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+torch-sparse
+
+--no-index --find-links https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+torch-cluster
+
+--no-index --find-links https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+torch-spline-conv
+
+-i  https://pypi.org/simple
+torch-geometric

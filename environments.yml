@@ -1,0 +1,17 @@
+name: RobustGCN
+channels:
+- pytorch
+- conda-forge
+- anaconda
+- defaults
+dependencies:
+- cudatoolkit=10.2
+- cudnn
+- pytorch=1.7.1
+- python=3.8
+- pip
+- pillow
+- numpy
+- scipy
+- scikit-learn
+- networkx
