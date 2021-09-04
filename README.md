@@ -5,7 +5,7 @@
 This repository is the official implementation of [*Node Feature Kernels Increase Graph Convolutional Network Robustness*]().
 
 <div align=center>
-<img src=https://github.com/ChangminWu/RobustGCN/blob/public/img/align.jpg  width="50%">
+<img src=https://github.com/ChangminWu/RobustGCN/blob/main/img/align.jpg  width="50%">
 </div>
 
 It is mainly developed with help of the library [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric). We also thank [Open Graph Benchmark implementation](https://github.com/snap-stanford/ogb/blob/master/examples/nodeproppred/arxiv/logger.py) for providing an example of `logger.py`.
