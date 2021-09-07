@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository is the official implementation of [*Node Feature Kernels Increase Graph Convolutional Network Robustness*]().
+This repository is the official implementation of [*Node Feature Kernels Increase Graph Convolutional Network Robustness*](https://arxiv.org/abs/2109.01785).
 
 <div align=center>
 <img src=https://github.com/ChangminWu/RobustGCN/blob/main/img/align.jpg  width="50%">
