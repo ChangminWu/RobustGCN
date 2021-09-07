@@ -140,5 +140,12 @@ Each column corresponds to a GNN model we considered. The appendage "-k" in the 
 
 If you find our repo useful, please cite:
 ```
-
+@misc{seddik2021node,
+      title={Node Feature Kernels Increase Graph Convolutional Network Robustness}, 
+      author={Mohamed El Amine Seddik and Changmin Wu and Johannes F. Lutzeyer and Michalis Vazirgiannis},
+      year={2021},
+      eprint={2109.01785},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
